@@ -1,3 +1,4 @@
+/* HW_17_section */
 .name{
     text-transform: uppercase;
 	background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
@@ -58,11 +59,11 @@ li {
     line-height: 1.5;
    
 }
-.button ul{
+/* .button ul{
    
    align-content: center;
   
-}
+} */
 footer{
     display:flex;
     background-color: #30CFD0; 
